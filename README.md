@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/thinkinai-hackathon-zim-mcp-server-badge.png)](https://mseep.ai/app/thinkinai-hackathon-zim-mcp-server)
+
 [English](README.md) | [中文](README.zh_CN.md)
 
 # ZIM MCP Server
